@@ -11,7 +11,7 @@ Steps:
 **Project Explanation**
 This project involves using SQL to analyze Walmart's data, focusing on key business metrics to derive insights. The analysis includes:
 
-Data Extraction and Transformation: Writing SQL queries to extract and transform data from Walmart's database for further analysis.
-Sales Analysis: Analyzing sales data to identify trends, peak sales periods, and product performance.
-Inventory Management: Evaluating stock levels, identifying slow-moving items, and optimizing inventory turnover.
-Customer Insights: Analyzing customer behavior and purchase patterns to enhance marketing strategies.
+1. Data Extraction and Transformation: Writing SQL queries to extract and transform data from Walmart's database for further analysis.
+2. Sales Analysis: Analyzing sales data to identify trends, peak sales periods, and product performance.
+3. Inventory Management: Evaluating stock levels, identifying slow-moving items, and optimizing inventory turnover.
+4. Customer Insights: Analyzing customer behavior and purchase patterns to enhance marketing strategies.
