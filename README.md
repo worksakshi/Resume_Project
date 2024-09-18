@@ -8,3 +8,10 @@ Steps:
 2) Performed Featured Engineering to extract the data that will be required for analysis.
 3) Performed queries to get insights into the Product, Customer and Sales data.
    
+**Project Explanation**
+This project involves using SQL to analyze Walmart's data, focusing on key business metrics to derive insights. The analysis includes:
+
+Data Extraction and Transformation: Writing SQL queries to extract and transform data from Walmart's database for further analysis.
+Sales Analysis: Analyzing sales data to identify trends, peak sales periods, and product performance.
+Inventory Management: Evaluating stock levels, identifying slow-moving items, and optimizing inventory turnover.
+Customer Insights: Analyzing customer behavior and purchase patterns to enhance marketing strategies.
